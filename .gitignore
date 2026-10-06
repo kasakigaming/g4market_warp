@@ -1,0 +1,11 @@
+# bí mật cục bộ - không bao giờ commit
+.env
+
+# file build của PyInstaller
+build/
+dist/
+*.spec
+__pycache__/
+
+# bản nén cũ
+*.rar
